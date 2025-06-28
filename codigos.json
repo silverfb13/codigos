@@ -1,4 +1,5 @@
 {
-  "170611": "https://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=silverfb13&password=lfbs1706",
-  "123456": "https://outrolink.com/player_api.php?username=test&password=123"
+  "170611": "http://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=silverfb13&password=lfbs1706",
+  "123456": "http://outrolink.com/player_api.php?username=test&password=123",
+  "555555": "http://dominio.com/player_api.php?username=cliente5&password=senha5"
 }
