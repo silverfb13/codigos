@@ -1,17 +1,5 @@
 {
     "170611": "http://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=silverfb13&password=lfbs1706",
     "123456": "http://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=user2&password=pass2",
-    "170612": {
-        "title": "\u00c1guiabox",
-        "macAddress": "",
-        "m3u": "shiny-frog-756a.luizfbs2011.workers.dev/xmltv.php?username=silverfb13&password=lfbs1706",
-        "username": "silverfb13",
-        "password": "lfbs1706",
-        "url": "shiny-frog-756a.luizfbs2011.workers.dev",
-        "apptype": "0",
-        "appname": "",
-        "status": "1",
-        "added_at": "2025-06-29T10:59:00-04:00"
-    },
     "645375": "shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=silverfb13&password=lfbs1706"
 }
