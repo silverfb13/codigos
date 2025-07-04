@@ -17,27 +17,5 @@
     "102019": "http://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=teste&password=teste",
     "532501": "http://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=silverfb13&password=lfbs1706",
     "849387": "http://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=matheus&password=matheus",
-    "719590": "http://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=fernando&password=fernando",
-    "994354": "http://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=silverfb13&password=lfbs1706",
-    "meta": {
-        "994354": {
-            "telefone": "21992105226",
-            "expiracao": "2025-07-05 00:42:26"
-        },
-        "598104": {
-            "telefone": "21992105226",
-            "expiracao": "2025-07-05 01:01:37"
-        },
-        "770930": {
-            "telefone": "21992105226",
-            "expiracao": "2025-07-05 01:05:41"
-        }
-    },
-    "400872": {
-        "url": "http://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=silverfb13&password=lfbs1706",
-        "telefone": "21992105226",
-        "expiracao": "2025-07-05 01:46:34"
-    },
-    "598104": "http://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=silverfb13&password=lfbs1706/player_api.php?username=silverfb13&password=lfbs1706",
-    "770930": "http://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=silverfb13&password=lfbs1706"
+    "719590": "http://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=fernando&password=fernando"
 }
