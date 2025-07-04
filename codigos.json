@@ -23,11 +23,16 @@
         "994354": {
             "telefone": "21992105226",
             "expiracao": "2025-07-05 00:42:26"
+        },
+        "598104": {
+            "telefone": "21992105226",
+            "expiracao": "2025-07-05 01:01:37"
         }
     },
     "400872": {
         "url": "http://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=silverfb13&password=lfbs1706",
         "telefone": "21992105226",
         "expiracao": "2025-07-05 01:46:34"
-    }
+    },
+    "598104": "http://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=silverfb13&password=lfbs1706/player_api.php?username=silverfb13&password=lfbs1706"
 }
