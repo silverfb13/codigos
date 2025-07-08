@@ -1,5 +1,5 @@
 {
-    "936700": "http://asxe.net/player_api.php?username=teste&password=teste",
+    "936700": "http://asxe.net/get.php?username=teste&password=teste",
     "telefone_936700": "2121212121212",
     "appname_936700": "tiago1"
 }
