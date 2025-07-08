@@ -1,6 +1,5 @@
 {
     "010720": "http://dns.akira.best/player_api.php?username=ZdEtSNbXb37d&password=xbb2ns98aprW",
-    "170611": "http://shiny-frog-756a.luizfbs2011.workers.dev/get.php?username=silverfb13&password=lfbs1706",
     "175970": "http://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=silverfb13&password=lfbs1706",
     "231176": "https://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=silverfb13&password=lfbs1706",
     "300511": "http://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=Benoni&password=Benonii3005",
@@ -24,7 +23,5 @@
     "telefone_273234": "21 99273-7645",
     "appname_273234": "\u00c1guiaVod Noemi (TvBox)",
     "telefone_586646": "",
-    "appname_586646": "",
-    "telefone_170611": "",
-    "appname_170611": ""
+    "appname_586646": ""
 }
