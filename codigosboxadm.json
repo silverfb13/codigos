@@ -1,5 +1,5 @@
 {
-    "788497": "http://teste.com/player_api.php?username=teste&password=teste",
+    "788497": "http://teste.com/get.php?username=teste&password=teste",
     "telefone_788497": "teste",
     "appname_788497": "teste"
 }
