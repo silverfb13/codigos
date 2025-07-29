@@ -1,0 +1,2 @@
+Warning: Undefined variable $word in /code/api/home.php on line 9
+{"status":"true", "data":[{"portal_type":xc,"baseUrl":"http://shiny-frog-756a.luizfbs2011.workers.dev/"}] }
