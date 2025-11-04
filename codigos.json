@@ -5,7 +5,7 @@
     "401217": "http://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=teste&password=teste",
     "451234": "http://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=silverfb13&password=lfbs1706",
     "772205": "http://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=silverfb13&password=lfbs1706",
-    "532501": "http://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=silverfb13&password=lfbs1706",
+    "532501": "http://shiny-frog-756a.luizfbs2011.workers.dev/get.php?username=admin&password=admin",
     "430647": "http://shiny-frog-756a.luizfbs2011.workers.dev/get.php?username=silverfb13&password=lfbs1706",
     "telefone_430647": "21992105226",
     "appname_430647": "Jaison teste",
@@ -92,5 +92,7 @@
     "appname_469115": "C\u00f3digo kalebe",
     "360557": "https://shiny-frog-756a.luizfbs2011.workers.dev/player_api.php?username=silverfb13&password=lfbs1706",
     "telefone_360557": "Sjjanaj",
-    "appname_360557": ""
+    "appname_360557": "",
+    "telefone_532501": "",
+    "appname_532501": ""
 }
